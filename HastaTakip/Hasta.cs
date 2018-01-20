@@ -19,6 +19,7 @@ namespace HastaTakip
         public void YasHesapla()
         {
             yas = 2018 - dogumyili;
+
         }
 
         public void IndirimliUcretHesapla ()
