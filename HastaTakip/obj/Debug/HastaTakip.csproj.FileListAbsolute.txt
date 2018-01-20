@@ -1,0 +1,10 @@
+C:\Users\burkay.altuntas\source\repos\HastaTakip\HastaTakip\bin\Debug\HastaTakip.exe.config
+C:\Users\burkay.altuntas\source\repos\HastaTakip\HastaTakip\bin\Debug\HastaTakip.exe
+C:\Users\burkay.altuntas\source\repos\HastaTakip\HastaTakip\bin\Debug\HastaTakip.pdb
+C:\Users\burkay.altuntas\source\repos\HastaTakip\HastaTakip\obj\Debug\HastaTakip.csprojResolveAssemblyReference.cache
+C:\Users\burkay.altuntas\source\repos\HastaTakip\HastaTakip\obj\Debug\HastaTakip.Form1.resources
+C:\Users\burkay.altuntas\source\repos\HastaTakip\HastaTakip\obj\Debug\HastaTakip.Properties.Resources.resources
+C:\Users\burkay.altuntas\source\repos\HastaTakip\HastaTakip\obj\Debug\HastaTakip.csproj.GenerateResource.Cache
+C:\Users\burkay.altuntas\source\repos\HastaTakip\HastaTakip\obj\Debug\HastaTakip.csproj.CoreCompileInputs.cache
+C:\Users\burkay.altuntas\source\repos\HastaTakip\HastaTakip\obj\Debug\HastaTakip.exe
+C:\Users\burkay.altuntas\source\repos\HastaTakip\HastaTakip\obj\Debug\HastaTakip.pdb
